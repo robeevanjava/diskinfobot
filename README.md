@@ -1,7 +1,9 @@
 <b>This code is under DWTFYW License or Do What The F*ck You Want</b>
 
 Requirement :
-1. Tweepy Python Library
-2. Twitter Access Token and Secret Key
+<ol>
+	<li>Tweepy Python Library</li>
+	<li>Twitter Access Token and Secret Key</li>
+</ol>
 
-Run the script : python diskinfobot2.py
+Run the script : <code>python diskinfobot2.py</code>
